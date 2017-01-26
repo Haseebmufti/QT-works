@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/Graphics-Painting-icon.png</file>
+        <file>img/Image-JPEG-icon.png</file>
+        <file>img/Images-icon.png</file>
+    </qresource>
+</RCC>
